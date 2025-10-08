@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#533483</color>
+    <color name="primary_dark">#0f3460</color>
+    <color name="accent">#e94560</color>
+
+    <!-- Background Colors -->
+    <color name="background">#0f3460</color>
+    <color name="glass_card">#33FFFFFF</color>
+    <color name="input_background">#40000000</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+
+    <!-- Additional Colors -->
+    <color name="divider">#33FFFFFF</color>
+</resources>
